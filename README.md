@@ -6,8 +6,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 
-[TOC]
-
 ## Techniques
 
 * [Face Recognition](#)
@@ -21,6 +19,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Multi-Task Learning](#) 
 	* [Blog - Fast Forward Labs](https://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html) - New Research on Multi-Task Learning
 	* [Blog - Ruder](http://ruder.io/multi-task) - An Overview of Multi-Task Learning in Deep Neural Networks
+
+# Problems
+
+* [Vanishing Gradients](https://cs224d.stanford.edu/notebooks/vanishing_grad_example.html)
+	* [Quora](http://qr.ae/TUNGQz)
 
 ## Statistics
 
