@@ -175,6 +175,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Visualisation
 
 * [Interactive Machine Learning list](https://p.migdal.pl/interactive-machine-learning-list)
+* [Neural Network Demo](https://phiresky.github.io/neural-network-demo)
 * [Bachpropagation by Google Developers](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll)
 * [Hands-on ML and its related books](https://anvaka.github.io/greview/hands-on-ml/1)
 
