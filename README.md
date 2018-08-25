@@ -16,6 +16,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [CNN](#)
 	* [Blog - Medium](https://towardsdatascience.com/3-small-but-powerful-convolutional-networks-27ef86faa42d) - 3 Small but Powerful Convolutional Networks
 	* [Note - GithubGist](https://gist.github.com/zeyademam/0f60821a0d36ea44eef496633b4430fc) - Troubleshooting Convolutional Neural Networks
+* [One-shot Learning](#)
+    * [Paper](#)
+    * [Blog - Sorenbouma](https://sorenbouma.github.io/blog/oneshot) - One Shot Learning and Siamese Networks
 * [Multi-Task Learning](#) 
 	* [Blog - Fast Forward Labs](https://blog.fastforwardlabs.com/2018/07/24/ff08-launch.html) - New Research on Multi-Task Learning
 	* [Blog - Ruder](http://ruder.io/multi-task) - An Overview of Multi-Task Learning in Deep Neural Networks
@@ -38,8 +41,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Loss
 
+* [Blog - Jdhao](https://jdhao.github.io/2017/03/13/some_loss_and_explanations) - Some loss and explain
 * [Triplet Loss](#)
 	* [Blog - Olivier Moindrot](https://omoindrot.github.io/triplet-loss) - Triplet Loss and Online Triplet Mining in TensorFlow
+* [Lossless Triplet Loss](#) - Extended Triplet Loss Version
+    * [Blog - TDS](https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24)
+* [Contrastive Loss](#)
 * [CTC Loss](#)
 	* [Blog - Distill](https://distill.pub/2017/ctc)
 * [Cross-Entropy Loss](#)
@@ -158,6 +165,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 	* [Paper](https://arxiv.org/abs/1704.04861v1)
 * [SiameseNet](#)
     * [Paper](#)
+    * [Blog - thelonenutblog](https://thelonenutblog.wordpress.com/2017/12/14/do-telecom-networks-dreams-of-siamese-memories) - Siamese Network in Telecom Networks
+    * [Github - Pytorch](https://github.com/delijati/pytorch-siamese) - Pytorch with Contrastive Loss
+    * [Github - Pytorch](https://github.com/adambielski/siamese-triplet) - Pytorch with Triplet/Contrastive Loss
 
 ## Embedding (a.k.a awesome2vec)
 
